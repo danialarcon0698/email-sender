@@ -85,12 +85,6 @@ AZURE_CLIENT_ID=your_application_client_id_from_step2
 SENDER_EMAIL=your.email@hotmail.com
 ```
 
-**Example `.env` file:**
-```
-AZURE_CLIENT_ID=12345678-1234-1234-1234-123456789abc
-SENDER_EMAIL=carlosalarcon100@hotmail.com
-```
-
 > **Important:** The `.env` file is already added to `.gitignore` so your credentials won't be committed to Git.
 >
 > **Note:** For personal Microsoft accounts, you only need the Client ID! No client secret or tenant ID required.
