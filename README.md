@@ -123,7 +123,7 @@ python mail.py
 **First Time (Authentication Required):**
 ```
 📧 Email Sender - OAuth2 Authentication
-Sending from: carlosalarcon100@hotmail.com
+Sending from: example@hotmail.com
 
 🔐 Authentication Required
 ==================================================
@@ -154,7 +154,7 @@ Done!
 **Subsequent Runs (Token Cached):**
 ```
 📧 Email Sender - OAuth2 Authentication
-Sending from: carlosalarcon100@hotmail.com
+Sending from: example@hotmail.com
 
 Total recipients: 3
 
